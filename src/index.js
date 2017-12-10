@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom';
-import Props from './Props'
+import Redux from './Redux'
 
 
-ReactDOM.render(<Props />, document.getElementById('main'));
+ReactDOM.render(<Redux />, document.getElementById('main'));

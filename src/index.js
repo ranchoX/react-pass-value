@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom';
-import Context from './Context'
+import Eventemit from './Eventemit'
 
 
-ReactDOM.render(<Context />, document.getElementById('main'));
+ReactDOM.render(<Eventemit />, document.getElementById('main'));

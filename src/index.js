@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom';
-import Redux from './Redux'
+import Context from './Context'
 
 
-ReactDOM.render(<Redux />, document.getElementById('main'));
+ReactDOM.render(<Context />, document.getElementById('main'));
